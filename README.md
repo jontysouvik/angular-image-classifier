@@ -8,5 +8,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Steps To Use
 
-Step 1. Select Any Image Bigger in size Better.\s\s
+Step 1. Select Any Image Bigger in size Better. \s\s
 Step 2. Click on Predict.
